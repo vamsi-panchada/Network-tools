@@ -1,0 +1,9 @@
+sys123
+password
+my password
+administrator
+admin123
+msfadmin
+admin
+system
+decoder
